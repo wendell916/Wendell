@@ -2,10 +2,10 @@
 
 Welcome to my GitHub profile!  
 
-I'm Wendell, a Developing Cybersecurity Analyst with a zeal for solving problems and building impactful solutions.  
+I'm Wendell, a Developing Cybersecurity Analyst and Cybersecurity Engineer with a zeal for solving problems and building impactful solutions.  
 
 ## 🚀 About Me  
-- 🔒 Security-focused professional .  
+- 🔒 Security-focused professional.  
 - 💡 Enthusiastic about leveraging technology to drive innovation and improve workflows.  
 
 
